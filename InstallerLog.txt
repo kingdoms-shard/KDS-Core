@@ -1,0 +1,72 @@
+Sphere Core File Creator 
+Version: 3.1 
+Created by Khaos. 
+Idea was derived from Sub-Zero's version. 
+Copyrighted by Menasoft 
+Version: 56 series 
+ 
+-:Sphere Core File Creator Initiated:- 
+Checking for Missing Base Files and Folders to Run Sphere 
+ 
+ 
+-:Performing a check for accounts folder:- 
+Created the Accounts Folder. 
+ 
+ 
+-:Performing a check for sphereacct.scp:- 
+Created sphereacct.scp 
+ 
+ 
+-:Performing a check for sphereaccu.scp:- 
+Created sphereaccu.scp 
+**An Owner account was created as well.  Login: ADMIN Password: Admin** 
+**You should change the password as soon as possible.** 
+ 
+ 
+-:Performing a Check for Logs Folder:- 
+Created the Logs Folder. 
+ 
+ 
+-:Performing a Check for Muls Folder:- 
+Created Muls Folder. 
+ 
+ 
+-:Performing a Check for Save Folder:- 
+Created the Save Folder 
+ 
+ 
+-:Performing a check for spherechars.scp:- 
+Created spherechars.scp 
+ 
+ 
+-:Performing a Check for spheredata.scp:- 
+Created spheredata.scp 
+ 
+ 
+-:Performing a check for spheremultis.scp:- 
+Created spheremultis.scp 
+ 
+ 
+-:Performing a check for spherestatics.scp:- 
+Created spherestatics.scp 
+ 
+ 
+-:Performing a check for spherechars.scp:- 
+Created sphereworld.scp 
+ 
+ 
+-:Additional Notes:- 
+Do not forget to add AGREE=1 in your sphere.ini 
+This should be placed somewhere under the [SPHERE] block, but above anything to do with file locations. 
+To new users, do not forget to set your flags for additional content beyond UO:R. 
+This is located under the Server Mechanics section in your sphere.ini file. 
+ 
+Most of the information you might need is explained within the sphere.ini, revisions.txt, the manual.txt 
+or on the www.spherecommunity.net forums. 
+ 
+If you need help beyond this, please post on the forums. 
+Thank you for downloading Sphere. 
+ 
+WARNING: DO NOT FORGET ABOUT THIS 
+Please do not forget, if an accounts file was set up, there will be an owner account made there. 
+We advise in your best interest to edit the account name and the password. 
