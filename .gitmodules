@@ -1,4 +1,4 @@
 [submodule "scripts"]
 	path = scripts
-	url = https://github.com/youhide/KDS-ScriptPack.git
+	url = https://github.com/kingdoms-shard/KDS-ScriptPack.git
 	branch = master
