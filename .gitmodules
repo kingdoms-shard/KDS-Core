@@ -1,6 +1,3 @@
-[submodule "scripts-custom"]
-	path = scripts-custom
-	url = https://github.com/Sphereserver/Scripts
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/Sphereserver/Scripts
