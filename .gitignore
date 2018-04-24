@@ -5,3 +5,4 @@ save
 InstallerLog.txt
 sphere.pid
 sphere*.log
+.DS_Store
