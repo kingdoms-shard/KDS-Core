@@ -2,7 +2,7 @@
 
 function start {
   screen -dmS sphere
-  screen -S sphere -X stuff "/home/pi/KDS-Core/spheresvr-arm-last^M"
+  screen -S sphere -X stuff "./spheresvr-arm-last^M"
 }
 
 function stop {
