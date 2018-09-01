@@ -6,7 +6,6 @@ function start {
 }
 
 function stop {
-  save
   screen -S sphere -X quit
 }
 
